@@ -12,14 +12,14 @@ After parsing through some funky data from New York State's **solar panel instal
 
 A classmate turned us towards (https://datausa.io/map/?level=county&key=uninsured). The next dependent variable we considered was **alcohol-related** motor vehicle deaths, but the metrics were not well defined—compressed into percentages and ambiguous units; we could not use them to extrapolate an actual scalar number of automotive fatalities involving alcohol per county.
 
-For the sake of time, we went with a simpler metric: Given some demographic attributes of a county, could we predict the number of motor vehicle deaths that will happen in a year in that county? Could we do better than just guessing the average for every county? 
+For the sake of time, we went with a simpler metric: Given some demographic attributes of a county, could we predict the number of motor vehicle deaths that will happen in a year in that county? Could we do better than just guessing the average for every county?
 
 #### Contents of the Jupyter Notebook:
 1. Data fetching and cleaning
 2. Checking for normality and any colinearity
 3. Splitting and Scaling the data
 4. Making a baseline model
-5. Making improved models¶
+5. Improving/Tuning models
 
 #### Excerpts:
 
