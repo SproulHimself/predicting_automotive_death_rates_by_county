@@ -1,8 +1,12 @@
 # Predicting Automotive Death Rates by County
 
-Our first attempt at multiple linear regression in Python, by Robert Boscacci and Andrew Sproul
+Our first attempt at multiple linear regression in Python
 
-### Which attributes, of US counties, correlate with their annual motor vehicle death rates?
+### Contributors
+
+Robert Boscacci and Andrew Sproul
+
+## Which attributes, of US counties, correlate with their annual motor vehicle death rates?
 
 ![from datausa.io](/readme/map.png)
 
