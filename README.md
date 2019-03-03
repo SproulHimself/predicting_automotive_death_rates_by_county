@@ -16,8 +16,8 @@ For the sake of time, we went with a simpler metric: Given some demographic attr
 
 #### Contents of the Jupyter Notebook:
 1. Data fetching and cleaning
-2. Checking for normality and any colinearity
-3. Splitting and Scaling the data
+2. Checking for normality and any collinearity
+3. Scaling & train test split
 4. Making a baseline model
 5. Improving/Tuning models
 
