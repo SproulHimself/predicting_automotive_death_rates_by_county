@@ -2,10 +2,6 @@
 
 Our first attempt at multiple linear regression in Python
 
-### Contributors
-
-Robert Boscacci and Andrew Sproul
-
 ## Which attributes, of US counties, correlate with their annual motor vehicle death rates?
 
 ![from datausa.io](/readme/map.png)
@@ -51,3 +47,8 @@ For the sake of time, we went with a simpler metric: Given some demographic attr
 * Resilience and flexibility are key characteristics of a data scientist.
 * In our multiple linear regression model, the two strongest features for predicting the motor vehicle death rate in any given US county are **teen childbearing rates** and the percentage of that county's **population that lives in a rural area.**
 * We chose our features because they were handy in the available data set, but ultimately, these particular features may not be the best ones for predicting the number of **motor vehicle deaths** in any given US county, obviously.
+
+
+### Contributors
+
+Robert Boscacci and Andrew Sproul
