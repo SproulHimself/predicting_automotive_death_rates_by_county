@@ -1,8 +1,10 @@
 # Predicting Automotive Death Rates at the County Level
 
-* Can we use multiple linear regression to predict automotive death rates at the county level.
+* Can we use multiple linear regression to predict automotive death rates at the county level?
 
-## Which attributes, of US counties, correlate with their annual motor vehicle death rates?
+## The main focus:
+ 
+* Which attributes, of US counties, correlate with their annual motor vehicle death rates?
 
 ![from datausa.io](/readme/map.png)
 
