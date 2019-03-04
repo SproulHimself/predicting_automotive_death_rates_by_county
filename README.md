@@ -6,7 +6,7 @@
 
 ![from datausa.io](/readme/map.png)
 
-This was our first crack at a building a multiple linear regression model, just to see how it's done and get some practice.
+This was our first attempt at a building a multiple linear regression model, to see how it's done and get some practice.
 
 ### Research:
 
