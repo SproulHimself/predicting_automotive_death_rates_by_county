@@ -1,20 +1,23 @@
 # Predicting Automotive Death Rates at the County Level
 
-* Can we use multiple linear regression to predict automotive death rates at the county level?
+## The Question:
 
-## The main focus:
- 
-* Which attributes, of US counties, correlate with their annual motor vehicle death rates?
+* Can we use multiple linear regression to predict automotive death rates at the county level?
 
 ![from datausa.io](/readme/map.png)
 
 This was our first crack at a building a multiple linear regression model, just to see how it's done and get some practice.
+
+### Research:
 
 After parsing through some funky data from New York State's **solar panel installation** tax incentive program (https://www.nyserda.ny.gov/All-Programs/Programs/NY-Sun/Data-and-Trends), we realized that said data was not indicative of more general solar panel adoption trends, so we went looking for other data to play with.
 
 A classmate turned us towards (https://datausa.io/map/?level=county&key=uninsured). The next dependent variable we considered was **alcohol-related** motor vehicle deaths, but the metrics were not well defined—compressed into percentages and ambiguous units; we could not use them to extrapolate an actual scalar number of automotive fatalities involving alcohol per county.
 
 For the sake of time, we went with a simpler metric: Given some demographic attributes of a county, could we predict the number of motor vehicle deaths that will happen in a year in that county? Could we do better than just guessing the average for every county?
+
+<!-- * Which attributes, of US counties, correlate with their annual motor vehicle death rates? -->
+
 
 #### Contents of the Jupyter Notebook:
 1. Data fetching and cleaning
