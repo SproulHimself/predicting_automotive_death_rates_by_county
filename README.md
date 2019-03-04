@@ -1,12 +1,14 @@
 # Predicting Automotive Death Rates at the County Level
 
+This was our first attempt at a building a multiple linear regression model, to see how it's done and get some practice.
+
+
 ## The Question:
 
 * Can we use multiple linear regression to predict automotive death rates at the county level?
 
 ![from datausa.io](/readme/map.png)
 
-This was our first attempt at a building a multiple linear regression model, to see how it's done and get some practice.
 
 ### Research:
 
