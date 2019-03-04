@@ -1,6 +1,6 @@
-# Predicting Automotive Death Rates by County
+# Predicting Automotive Death Rates at the County Level
 
-* Our first attempt at multiple linear regression in Python
+* Can we use multiple linear regression to predict automotive death rates at the county level.
 
 ## Which attributes, of US counties, correlate with their annual motor vehicle death rates?
 
