@@ -51,7 +51,7 @@ For the sake of time, we went with a simpler metric: Given some demographic attr
 * A deep understanding of your initial data set and its provenance is imperative.
 * Resilience and flexibility are key characteristics of a data scientist.
 * In our multiple linear regression model, the two strongest features for predicting the motor vehicle death rate in any given US county are **teen childbearing rates** and the percentage of that county's **population that lives in a rural area.**
-* We chose our features because they were handy in the available data set, but ultimately, these particular features may not be the best ones for predicting the number of **motor vehicle deaths** in any given US county, obviously.
+* We chose our features because they were handy in the available data set, but ultimately, these particular features are probably not be the best for predicting the number of **motor vehicle deaths** in any given US county.
 
 
 ### Contributors
